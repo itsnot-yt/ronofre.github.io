@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -40,8 +39,7 @@
         <p>Hi, I'm [Your Name], a [Your Profession/Role] based in [Your Location]. I have a passion for [Your Passion/Interest] and love exploring new ideas and opportunities.</p>
         <p>When I'm not working, I enjoy [Hobbies/Activities]. My goal is to [Your Goal/Mission Statement].</p>
         <h3>Contact Me</h3>
-        <p>Email: <a href="mailto:yourname@example.com">yourname@example.com</a></p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+        <p>Email: <a href="mailto:yourname@example.com">cpe.rodolfojoseonofre@gmail.com</a></p>
     </section>
     <footer>
         <p>&copy; 2024 [Your Name]. All rights reserved.</p>
