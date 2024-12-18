@@ -36,7 +36,8 @@
     </header>
     <section>
         <h2>About Me</h2>
-        <p>Hi, I'm [Your Name], a [Your Profession/Role] based in [Your Location]. I have a passion for [Your Passion/Interest] and love exploring new ideas and opportunities.</p>
+        <p>Hi, I'm Rodolfo Jose Pinlac Onofre, currently a 4th year Computer Engineering Student at Don Honorio
+            Ventura State University. </p>
         <p>When I'm not working, I enjoy [Hobbies/Activities]. My goal is to [Your Goal/Mission Statement].</p>
         <h3>Contact Me</h3>
         <p>Email: <a href="mailto:yourname@example.com">cpe.rodolfojoseonofre@gmail.com</a></p>
